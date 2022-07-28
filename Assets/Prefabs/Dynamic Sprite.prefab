@@ -14,7 +14,6 @@ GameObject:
   - component: {fileID: 7158781004897699839}
   - component: {fileID: 7158781004897699838}
   - component: {fileID: 7158781004897699829}
-  - component: {fileID: -5061804558977165047}
   m_Layer: 0
   m_Name: Dynamic Sprite
   m_TagString: Untagged
@@ -238,15 +237,3 @@ LineRenderer:
     generateLightingData: 0
   m_UseWorldSpace: 1
   m_Loop: 0
---- !u!114 &-5061804558977165047
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7158781004897699836}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 871685f3594a54f8ca9678b7a3211016, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
